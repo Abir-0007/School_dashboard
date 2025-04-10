@@ -97,6 +97,7 @@ align-items: center;
 gap: 10px;
 border-radius: 29px;
 background: var(--Prime, #1E293B);
+color: #eceff5;
 }
 
 .view-button:hover {
